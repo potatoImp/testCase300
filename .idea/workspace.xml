@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71f1d571-5f13-41c0-aa69-ad01956d391e" name="Default Changelist" comment="" />
+    <list default="true" id="71f1d571-5f13-41c0-aa69-ad01956d391e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,11 +203,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582944926726</updated>
-      <workItem from="1582944928014" duration="1798000" />
+      <workItem from="1582944928014" duration="2295000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
